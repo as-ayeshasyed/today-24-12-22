@@ -1,0 +1,237 @@
+.nbar{
+    height: 150px ;
+    background: linear-gradient(to bottom, #2a99b5, #62bed2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  }
+  .nitm{
+  
+    position: relative;
+    top: -10px ;
+    color: rgb(23, 2, 2) ;
+  }
+  .nlnk{
+    color: rgb(214, 223, 233);
+    font-weight: bold;
+    font-family: calibri;
+    font-size: 20px;
+    
+    
+  }
+  .nlnk:hover{
+    color: rgb(219, 234, 247);
+    text-decoration: underline;
+    text-decoration-color: rgb(210, 210, 210);
+
+  }
+  .dropdown-menu{
+    display: none;
+  }
+  .bcumb{
+    margin-left: 450px;
+  }
+  .main{
+    background: linear-gradient(to right, #c9d6ff, #e2e2e2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ }
+  #alpin{
+    height: 60vh ;
+    background: url('/Images/mountainbig.jpg') no-repeat center;
+    position: relative;
+    top: 10px ;
+    border-radius: 25px;
+  }
+  
+  
+  
+
+  .heading{
+     color: rgb(29, 75, 108); 
+     font-family: roboto;
+     text-align: center;
+     text-decoration: underline;
+  }
+  .para{
+    color: rgb(29, 75, 108); 
+     font-family: roboto;
+     font-size: 22px;
+     text-align: justify;
+     padding: auto;
+  }
+
+  #mount{
+    height: 65vh ;
+    background: url('/Images/mountaineering2.jpg') no-repeat center;
+    background-size: cover;
+    margin: 80px auto;
+    margin-bottom: 10px;
+    border-radius: 25px;
+  }
+
+  #history{
+    height: 65vh ;
+    background: url('/Images/mountain-climbing.jpg') no-repeat center;
+    background-size: cover;
+    margin: 80px auto;
+    margin-bottom: 10px;
+    border-radius: 25px;
+  }
+  #types{
+    height: 65vh ;
+    background: url('/Images/types.jpg') no-repeat center;
+    background-size: cover;
+    margin: 80px auto;
+    margin-bottom: 10px;
+    border-radius: 25px;
+  }
+  .lst{color: rgb(26, 79, 117); 
+    font-family: roboto;
+    font-size: 22px;
+    text-align: justify;
+    padding: auto;
+  }
+ 
+  #skill{
+    height: 65vh ;
+    background: url('/Images/compass.jpg') no-repeat center;
+    background-size: cover;
+    margin: 80px auto;
+    margin-bottom: 10px;
+    border-radius: 25px;
+  }
+  #hazard{
+    height: 65vh ;
+    background: url('/Images/hazard.jpg') no-repeat center;
+    background-size: cover;
+    margin: 80px auto;
+    margin-bottom: 10px;
+    border-radius: 25px;
+  }
+  
+  
+#hero{
+  margin-top: 100px;
+}
+  #tribute1-parent{
+    height: 40vh;
+    padding: 0;
+    margin: 20px auto;
+    transition: 0.3s;
+  }
+
+  #tribute1{
+    height: 100%;
+    width: 100%;
+    background: url('/Images/nazir_sabir.jpeg') no-repeat center;
+    background-size: cover;
+    transition: 0.3s;
+    border-radius: 15px;
+  }
+
+  #tribute1-text{
+    height: 100%;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.308);
+    text-align: center;
+    padding-top: 240px;
+    display: none;
+  }
+
+  #tribute1-parent:hover #tribute1-text{
+    display: block;
+  }
+  #tribute2-parent{
+    height: 40vh;
+    padding: 0;
+    margin: 20px auto;
+    transition: 0.3s;
+  }
+  
+  #tribute2{
+    height: 100%;
+    width: 100%;
+    background: url('/Images/Muhammad_Ali_Sadpara.jpg') no-repeat center;
+    background-size: cover;
+    transition: 0.3s;
+    border-radius: 15px;
+  }
+  #tribute2-text{
+    height: 100%;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.308);
+    text-align: center;
+    padding-top: 240px;
+    display: none;
+  }
+  #tribute2-parent:hover #tribute2-text{
+    display: block;
+  }
+  #tribute3-parent{
+    height: 40vh;
+    padding: 0;
+    margin: 20px auto;
+    transition: 0.3s;
+  }
+  #tribute3{
+    height: 100%;
+    width: 100%;
+    background: url('/Images/Meherban_Karim_K2.jpg') no-repeat center;
+    background-size: cover;
+    transition: 0.3s;
+    border-radius: 15px;
+  }
+  #tribute3-text{
+    height: 100%;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.308);
+    text-align: center;
+    padding-top: 240px;
+    display: none;
+  }
+  #tribute3-parent:hover #tribute3-text{
+    display: block;
+  }
+
+  #part-logo1{
+    background: url('images/premio_logo.png');
+    height: 30vh ;
+  }
+  #part-logo2{
+    background: url('images/expedia_logo.png');
+    height: 20vh ;
+  }
+  #part-logo3{
+    background: url('images/crown_agency.png');
+    height: 50vh ;
+  }
+  .foot{
+    height: 350px ;
+    background: linear-gradient(to bottom, #2a99b5, #62bed2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  h3{
+    color: rgb(214, 223, 233);
+    font-family: roboto;
+    text-align: justify;
+    text-decoration: underline;
+    padding-left: 38px;
+    padding-top: 30px;
+  }
+  .lst2{   
+    color: rgb(214, 223, 233);
+    font-family: roboto;
+    font-size: 22px;
+    text-align: justify;
+    padding-top: 5px;
+    list-style-type: none;
+  }
+  h3:hover{
+    color: rgb(219, 234, 247);
+    text-decoration: underline;
+    text-decoration-color: rgb(210, 210, 210);
+  }
+  .lst2:hover{
+    color: rgb(219, 234, 247);
+    text-decoration: underline;
+    text-decoration-color: rgb(210, 210, 210);
+
+  }
+  
